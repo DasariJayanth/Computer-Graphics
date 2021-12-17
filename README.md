@@ -14,7 +14,8 @@ This repository contains the topics of Computer Graphics(implementation in pytho
 5. RGB Equalized Image  
   
 **part-3**  
-Edge Detection Methods  
+  
+  Edge Detection Methods  
 1. Edge Detection Using Sobel  
 2. Edge Detection using Prewitt  
 3. Edge Detection using Robert  
