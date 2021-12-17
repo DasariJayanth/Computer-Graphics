@@ -1,6 +1,8 @@
 # Computer-Graphics
 This repository contains the topics of Computer Graphics(implementation in python).  
   
+  Code for Cohen-Sutherland Line Clipping Algorithm  
+  
 **Part-1**  
 1. Image Coversion => Color to Gray  
 2. Image Rotation  
