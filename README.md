@@ -13,7 +13,7 @@ This repository contains the topics of Computer Graphics(implementation in pytho
 4. Gray Scale Equalized Image  
 5. RGB Equalized Image  
   
-**part-3**
+**part-3**  
 Edge Detection Methods  
 1. Edge Detection Using Sobel  
 2. Edge Detection using Prewitt  
